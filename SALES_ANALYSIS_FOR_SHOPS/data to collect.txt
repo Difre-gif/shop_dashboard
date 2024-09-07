@@ -1,0 +1,40 @@
+1. Sales Data
+Date of Sale: To analyze trends over time (daily, weekly, monthly).
+Product Sold: Name or SKU (Stock Keeping Unit) of the product sold.
+Quantity Sold: Number of units sold per product.
+Sales Price: The selling price of each product.
+Discounts/Offers Applied: If any discount or promotional pricing was applied.
+Total Transaction Value: The total amount for each purchase (price x quantity - discounts).
+2. Inventory Data
+Product Name/SKU: Unique identifier for each product.
+Stock Levels: The current number of units in stock.
+Reorder Levels: Threshold to trigger reordering to prevent stockouts.
+Restock Date: Date when products were last restocked.
+3. Customer Data
+Customer ID: A unique identifier for repeat customers (if available).
+Purchase Frequency: How often customers make purchases.
+Customer Demographics: Gender, age group, or location (if you can collect this at the point of sale).
+Payment Method: Cash, mobile money, or card, if applicable.
+4. Financial Data
+Daily/Weekly/Monthly Revenue: Total revenue generated in different time periods.
+Costs (COGS): Cost of goods sold for understanding profit margins.
+Profit Margin: Difference between the sales price and the cost of the product.
+5. Order Data
+Order ID: Unique identifier for each purchase.
+Order Date and Time: When the purchase occurred.
+Total Number of Items: Total items in each transaction.
+6. Supplier Data
+Supplier Information: Name, contact, and products they supply.
+Restock Costs: Cost to purchase goods from suppliers.
+Delivery Times: How long it takes to restock after placing an order.
+7. Product Performance Data
+Best-Selling Products: Identify which products are selling the most.
+Slow-Moving Products: Identify products that don’t sell quickly.
+Product Category: Organize products into categories for easier analysis (e.g., electronics, groceries, clothing).
+8. Operational Data (Optional)
+Store Hours: Times when the shop is open for business.
+Employee Shifts: If applicable, track staff attendance and performance.
+Tools for Data Collection
+Point of Sale (POS) Systems: These can automate data collection, but if not available, manual records (such as a spreadsheet or ledger) can be used.
+Receipt Book: Record each transaction.
+Stock Book: Track inventory changes manually.
